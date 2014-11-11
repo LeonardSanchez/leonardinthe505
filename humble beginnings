@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang = "en">
+   <head>
+      <meta charset= "UTF-8" />
+      <title> CSS Responsive Template </title>
+      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css">
+   </head>
+   <body>
+         <header>
+            <img src = " " width= "200" height= "200" alt= "logo place holder" />
+            <strong>Leonard in the 505</strong>
+         </header>
+         <div id = "outerContainer">
+            <div id= "rowContainer">
+               <aside>
+                  <h1>About Me</h1>
+               <aside>
+               <section>
+                  <h1>What I do best</h1>
+                  <p> bla bla bla Group Fitness bla bla bla Personal Training </p>
+               </section>
+               <!-- empty div to esure the seection expands to full width -- >
+               <div id= "placeholder"> </div>
+            </div>
+         </div>
+         <footer>
+            <strong>Footer</strong>
+         </footer>
+   </body>
+</html>
