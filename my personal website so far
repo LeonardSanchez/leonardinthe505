@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang = "en">
+<head>
+	<meta charset= "UTF-8" />
+	<title> CSS Responsive Template </title>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css">
+</head>
+<body>
+	<header>
+		<header style="background-color:black;">
+		<img src = "http://themustangsource.com/forums/attachments/f806/150616d1388126354-my-2015-mods-image-2137625122.jpg " width= "200" height= "200" alt= "logo place holder" />
+		<strong>Leonard in the 505</strong>
+	</header>
+	<div class= "container"  >
+		<div class="row">
+			<aside class="col-md-4">
+
+				<h1>About Me</h1>
+					<img src =   http://www.du.edu/ritchiecenter/coorsfitnesscenter/media/images/headers/group_fitness.jpg   width= "350" height= "200" alt= "logo place holder" />
+					<p> I have worked in the fitness industry for 20 years as both a Certified Personal Trainer and a Certified Group Fitness Instructor.
+						 Now I am starting my second career as a Web Developer. I love new technology!</p>
+				</aside>
+					<section class="col-md-8">
+						<h1>Nationally Certified</h1>
+						<p>National Certifications Include:
+							<li> American College of Sports Medicine (ACSM)</li>
+							<li> American Council of Exercise CPT (ACE)</li>
+							<li> Aerobics and Fitness Association of America (AFAA)</li>
+							<li> Fitour Advanced Personal Trainer </li>
+							<li> Fitour Health Practitioner </li>
+							Specialty Certifications Include:
+							<li> Indoor Cycling</li>
+							<li> Cardio Kickboxing</li>
+							<li> Step Aerobics</li>
+							<li> Group Weights</li>
+							<li> Pi-Yo (Pilates Yoga fusion)</li>
+							<li> Zumba, Zumba Toning, Zumba Sentao</li>
+						</p>
+
+					</section>
+					<!-- empty div to esure the seection expands to full width -- >
+					<div id= "placeholder"> </div>
+
+		</div>
+	</div>
+	<footer>
+		<strong>Footer</strong>
+	</footer>
+</body>
+</html>
